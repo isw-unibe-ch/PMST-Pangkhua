@@ -1,0 +1,11 @@
+value_id,label,feature,unimorph,language_id
+du,dual,number,DU,pangkhua
+pl,plural,number,PL,pangkhua
+sg,singular,number,SG,pangkhua
+1,first person,person,1,pangkhua
+2,second person,person,2,pangkhua
+3,third person,person,3,pangkhua
+aff,affirmative,polarity,POS,pangkhua
+neg,negative,polarity,NEG,pangkhua
+fut,future,tense_aspect,FUT,pangkhua
+nfut,non-future,tense_aspect,,pangkhua

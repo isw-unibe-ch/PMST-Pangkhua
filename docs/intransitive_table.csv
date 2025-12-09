@@ -1,0 +1,29 @@
+person,analysed_phon_form,paradigm_tag
+FUT.AFF,,
+1SG,k ə + Σ + a t,default
+1PL,k ə + n + Σ + a t,default
+2SG,n ə + Σ + a t,default
+2PL,n ə + n + Σ + a t,default
+3SG,ə + Σ + a t,default
+3PL,ə + n + Σ + a t,default
+FUT.NEG,,
+1SG,k ə + Σ + a t + l o,default
+1PL,k ə + n + Σ + a t + l o,default
+2SG,n ə + Σ + a t + l o,default
+2PL,n ə + n + Σ + a t + l o,default
+3SG,ə + Σ + a t + l o,default
+3PL,ə + n + Σ + a t + l o,default
+NFUT.AFF,,
+1SG,k ə + Σ,default
+1PL,k ə + n + Σ,default
+2SG,n ə + Σ,default
+2PL,n ə + n + Σ,default
+3SG,ə + Σ,default
+3PL,ə + n + Σ,default
+NFUT.NEG,,
+1SG,k ə + Σ + l o,default
+1PL,k ə + n + Σ + l o,default
+2SG,n ə + Σ + l o,default
+2PL,n ə + n + Σ + l o,default
+3SG,ə + Σ + l o,default
+3PL,ə + n + Σ + l o,default

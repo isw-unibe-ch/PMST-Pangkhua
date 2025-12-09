@@ -1,0 +1,5 @@
+lexeme_id,POS,label,meaning,language_id
+no_stem,pronoun,,,pangkhua
+kal,verb,kal,go,pangkhua
+muh,verb,"muh, muʔ",see,pangkhua
+zel,verb,zel,hit,pangkhua

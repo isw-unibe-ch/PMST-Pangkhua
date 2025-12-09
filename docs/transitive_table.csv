@@ -1,0 +1,35 @@
+FUT.AFF,,,,,,,,
+A/O,1SG,1PL,2SG,2PL,3SG,3PL,paradigm_tag,overabundance_tag
+1SG,,,k ə + Σ + a t + n e,k ə + Σ + a t + ei + n e,k ə + Σ + a t,k ə + Σ + a t + ei,default,
+1PL,,,k ə + n + Σ + a t + n e,k ə + n + Σ + a t + ei + n e,k ə + n + Σ + a t,k ə + n + Σ + a t + ei,default,
+2SG,n ə + h ɒ ŋ + Σ + a t,n ə + h ɒ ŋ + Σ + a t + n e,,,n ə + Σ + a t,n ə + Σ + a t + ei,default,
+2PL,n ə + n + h ɒ ŋ + Σ + a t,n ə + n + h ɒ ŋ + Σ + a t + ei,,,n ə + n + Σ + a t,n ə + n + Σ + a t + ei,default,
+3SG,ə + h ɒ ŋ + Σ + a t,ə + h ɒ ŋ + Σ + a t + ei,ə + Σ + a t + n e,,ə + Σ + a t,ə + Σ + a t + ei,default,
+3PL,ə + n + h ɒ ŋ + Σ + a t,ə + n + h ɒ ŋ + Σ + a t + ei,ə + n + Σ + a t + n e,ə + n + Σ + ei + n e + a t,ə + n + Σ + a t,ə + n + Σ + a t + ei,default,
+FUT.NEG,,,,,,,,
+A/O,1SG,1PL,2SG,2PL,3SG,3PL,paradigm_tag,overabundance_tag
+1SG,,,k ə + Σ + a t + n e + l o,k ə + Σ + a t + ei + n e + l o,k ə + Σ + a t + l o,k ə + Σ + a t + ei + l o,default,
+1PL,,,k ə + n + Σ + a t + n e + l o,k ə + n + Σ + ei + n e + l o,k ə + n + Σ + a t + l o,k ə + n + Σ + a t + ei + l o,default,
+2SG,n ə + h ɒ ŋ + Σ + a t + l o,n ə + h ɒ ŋ + Σ + a t + ei + l o,,,n ə + Σ + a t + l o,n ə + Σ + a t + ei + l o,default,
+2PL,n ə + n + h ɒ ŋ + Σ + a t + l o,n ə + n + h ɒ ŋ + Σ + a t + ei + l o,,,n ə + n + Σ + a t + l o,n ə + n + Σ + a t + ei + l o,default,
+3SG,ə + h ɒ ŋ + Σ + a t + l o,ə + h ɒ ŋ + Σ + a t + ei + l o,ə + Σ + a t + n e + l o,ə + Σ + a t + ei + n e + l o,ə + Σ + a t + l o,ə + Σ + a t + ei + l o,default,
+3PL,ə + n + h ɒ ŋ + Σ + a t + l o,ə + n + h ɒ ŋ + Σ + a t + ei + l o,ə + n + Σ + a t + n e + l o,ə + n + Σ + ei + n e + a t + l o,ə + n + Σ + a t + l o,ə + n + Σ + a t + l o,default,
+NFUT.AFF,,,,,,,,
+A/O,1SG,1PL,2SG,2PL,3SG,3PL,paradigm_tag,overabundance_tag
+1SG,,,k ə + Σ + n e,k ə + Σ + ei + n e,k ə + Σ,k ə + Σ + ei,default,
+1PL,,,k ə + n + Σ + n e,k ə + n + Σ + ei + n e,k ə + n + Σ,k ə + n + Σ + ei,default,
+2SG,n ə + h ɒ ŋ + Σ,n ə + h ɒ ŋ + Σ + ei,,,n ə + Σ,n ə + Σ + ei,default,
+2PL,n ə + n + h ɒ ŋ + Σ,n ə + n + h ɒ ŋ + Σ + ei,,,n ə + n + Σ,n ə + n + Σ + ei,default,
+3SG,ə + h ɒ ŋ + Σ,ə + h ɒ ŋ + Σ + ei,ə + Σ + n e,,ə + Σ,ə + Σ + ei,default,
+3SG,h ɒ ŋ + Σ,h ɒ ŋ + Σ + ei,,,Σ,,,optional_third
+3SG,,,,ə + Σ + ei + n e,,,"default, default",
+3PL,ə + n + h ɒ ŋ + Σ,ə + n + h ɒ ŋ + Σ + ei,ə + n + Σ + n e,ə + n + Σ + ei + n e,ə + n + Σ,ə + n + Σ + ei,default,
+3PL,h ɒ ŋ + Σ,,,,,,,optional_third
+NFUT.NEG,,,,,,,,
+A/O,1SG,1PL,2SG,2PL,3SG,3PL,paradigm_tag,overabundance_tag
+1SG,,,k ə + Σ + n e + l o,k ə + Σ + ei + n e + l o,k ə + Σ + l o,k ə + Σ + ei + l o,default,
+1PL,,,k ə + n + Σ + n e + l o,k ə + n + Σ + ei + n e + l o,k ə + n + Σ + l o,k ə + n + Σ + ei + l o,default,
+2SG,n ə + h ɒ ŋ + Σ + l o,n ə + h ɒ ŋ + Σ + ei + l o,,,n ə + Σ + l o,n ə + Σ + ei + l o,default,
+2PL,n ə + n + h ɒ ŋ + Σ + l o,n ə + n + h ɒ ŋ + Σ + ei + l o,,,n ə + n + Σ + l o,n ə + n + Σ + ei + l o,default,
+3SG,ə + h ɒ ŋ + Σ + l o,ə + h ɒ ŋ + Σ + ei + l o,ə + Σ + n e + l o,ə + Σ + ei + n e + l o,ə + Σ + l o,ə + Σ + ei + l o,default,
+3PL,ə + n + h ɒ ŋ + Σ + l o,ə + n + h ɒ ŋ + Σ + ei + l o,ə + n + Σ + n e + l o,ə + n + Σ + ei + n e + l o,ə + n + Σ + l o,ə + n + Σ + ei + l o,default,

@@ -1,0 +1,150 @@
+form_id,lexeme,cell,source_form,orth_form,phon_form,analysed_orth_form,analysed_phon_form,paradigm_tag,overabundance_tag,source,page,language_id
+pangkhua001,no_stem,1.sg,kəi,kəi,k ə i,kəi,k ə i,default,,Akter2016Endangerment,17,pangkhua
+pangkhua002,no_stem,1.du,kəi-ni,kəini,k ə i n i,kəi+ni,k ə i + n i,default,,Akter2016Endangerment,17,pangkhua
+pangkhua003,no_stem,1.pl,kəi-ni-hou,kəinihou,k ə i n i h o u,kəi+ni+hou,k ə i + n i + h o u,default,,Akter2016Endangerment,17,pangkhua
+pangkhua004,no_stem,2.sg,naŋ,naŋ,n a ŋ,naŋ,n a ŋ,default,,Akter2016Endangerment,17,pangkhua
+pangkhua005,no_stem,2.du,naŋ-ni,naŋni,n a ŋ n i,naŋ+ni,n a ŋ + n i,default,,Akter2016Endangerment,17,pangkhua
+pangkhua006,no_stem,2.pl,naŋ-ni-hou,naŋnihou,n a ŋ n i h o u,naŋ+ni+hou,n a ŋ + n i + h o u,default,,Akter2016Endangerment,17,pangkhua
+pangkhua007,no_stem,3.sg,anih,anih,a n i h,anih,a n i h,default,,Akter2016Endangerment,17,pangkhua
+pangkhua008,no_stem,3.du,ani,ani,a n i,ani,a n i,default,,Akter2016Endangerment,17,pangkhua
+pangkhua009,no_stem,3.pl,ani-hou,anihou,a n i h o u,ani+hou,a n i + h o u,default,,Akter2016Endangerment,17,pangkhua
+pangkhua010,kal,1.sg.fut.aff,kə=kal=at̪,kəΣat,k ə Σ a t,kə+Σ+at,k ə + Σ + a t,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua011,kal,1.pl.fut.aff,kən=kal=at̪,kənΣat,k ə n Σ a t,kə+n+Σ+at,k ə + n + Σ + a t,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua012,muh,1.sg.2.sg.fut.aff,kə=muʔ=at̪=ne,kəΣatne,k ə Σ a t n e,kə+Σ+at+ne,k ə + Σ + a t + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua013,muh,1.sg.2.pl.fut.aff,kə=muʔ=at̪=ei=ne,kəΣateine,k ə Σ a t ei n e,kə+Σ+at+ei+ne,k ə + Σ + a t + ei + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua014,muh,1.pl.2.sg.fut.aff,kən=muʔ=at̪=ne,kənΣatne,k ə n Σ a t n e,kə+n+Σ+at+ne,k ə + n + Σ + a t + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua015,muh,1.pl.2.pl.fut.aff,kən=muʔ=at̪=ei=ne,kənΣateine,k ə n Σ a t ei n e,kə+n+Σ+at+ei+ne,k ə + n + Σ + a t + ei + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua016,muh,1.sg.3.sg.fut.aff,kə=muʔ=at̪,kəΣat,k ə Σ a t,kə+Σ+at,k ə + Σ + a t,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua017,muh,1.sg.3.pl.fut.aff,kə=muʔ=at̪=ei,kəΣatei,k ə Σ a t ei,kə+Σ+at+ei,k ə + Σ + a t + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua018,muh,1.pl.3.sg.fut.aff,kən=muʔ=at̪,kənΣat,k ə n Σ a t,kə+n+Σ+at,k ə + n + Σ + a t,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua019,muh,1.pl.3.pl.fut.aff,kən=muʔ=at̪=ei,kənΣatei,k ə n Σ a t ei,kə+n+Σ+at+ei,k ə + n + Σ + a t + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua020,kal,2.sg.fut.aff,nə=kal=at̪,nəΣat,n ə Σ a t,nə+Σ+at,n ə + Σ + a t,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua021,kal,2.pl.fut.aff,nən=kal=at̪,nənΣat,n ə n Σ a t,nə+n+Σ+at,n ə + n + Σ + a t,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua022,muh,2.sg.1.sg.fut.aff,nə=hɒŋ=muʔ=at̪,nəhɒŋΣat,n ə h ɒ ŋ Σ a t,nə+hɒŋ+Σ+at,n ə + h ɒ ŋ + Σ + a t,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua023,muh,2.sg.1.pl.fut.aff,nə=hɒŋ=muʔ=at̪=ne,nəhɒŋΣatne,n ə h ɒ ŋ Σ a t n e,nə+hɒŋ+Σ+at+ne,n ə + h ɒ ŋ + Σ + a t + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua024,muh,2.pl.1.sg.fut.aff,nən=hɒŋ=muʔ=at̪,nənhɒŋΣat,n ə n h ɒ ŋ Σ a t,nə+n+hɒŋ+Σ+at,n ə + n + h ɒ ŋ + Σ + a t,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua025,muh,2.pl.1.pl.fut.aff,nən=hɒŋ=muʔ=at̪=ei,nənhɒŋΣatei,n ə n h ɒ ŋ Σ a t ei,nə+n+hɒŋ+Σ+at+ei,n ə + n + h ɒ ŋ + Σ + a t + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua026,muh,2.sg.3.sg.fut.aff,nə=muʔ=at̪,nəΣat,n ə Σ a t,nə+Σ+at,n ə + Σ + a t,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua027,muh,2.sg.3.pl.fut.aff,nə=muʔ=at̪=ei,nəΣatei,n ə Σ a t ei,nə+Σ+at+ei,n ə + Σ + a t + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua028,muh,2.pl.3.sg.fut.aff,nən=muʔ=at̪,nənΣat,n ə n Σ a t,nə+n+Σ+at,n ə + n + Σ + a t,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua029,muh,2.pl.3.pl.fut.aff,nən=muʔ=at̪=ei,nənΣatei,n ə n Σ a t ei,nə+n+Σ+at+ei,n ə + n + Σ + a t + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua030,kal,3.sg.fut.aff,ə=kal=at̪,əΣat,ə Σ a t,ə+Σ+at,ə + Σ + a t,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua031,kal,3.pl.fut.aff,ən=kal=at̪,ənΣat,ə n Σ a t,ə+n+Σ+at,ə + n + Σ + a t,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua032,muh,3.sg.1.sg.fut.aff,ə=hɒŋ=muʔ=at̪,əhɒŋΣat,ə h ɒ ŋ Σ a t,ə+hɒŋ+Σ+at,ə + h ɒ ŋ + Σ + a t,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua033,muh,3.sg.1.pl.fut.aff,ə=hɒŋ=muʔ=at̪=ei,əhɒŋΣatei,ə h ɒ ŋ Σ a t ei,ə+hɒŋ+Σ+at+ei,ə + h ɒ ŋ + Σ + a t + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua034,muh,3.pl.1.sg.fut.aff,ən=hɒŋ=muʔ=at̪,ənhɒŋΣat,ə n h ɒ ŋ Σ a t,ə+n+hɒŋ+Σ+at,ə + n + h ɒ ŋ + Σ + a t,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua035,muh,3.pl.1.pl.fut.aff,ən=hɒŋ=muʔ=at̪=ei,ənhɒŋΣatei,ə n h ɒ ŋ Σ a t ei,ə+n+hɒŋ+Σ+at+ei,ə + n + h ɒ ŋ + Σ + a t + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua036,muh,3.sg.2.sg.fut.aff,ə=muʔ=at̪=ne,əΣatne,ə Σ a t n e,ə+Σ+at+ne,ə + Σ + a t + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua037,muh,3.sg.2.pl.fut.aff,ə=muʔ=at̪=ei=ne,əΣateine,ə Σ a t ei n e,ə+Σ+at+ei+ne,ə + Σ + a t + ei + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua038,muh,3.pl.2.sg.fut.aff,ən=muʔ=at̪=ne,ənΣatne,ə n Σ a t n e,ə+n+Σ+at+ne,ə + n + Σ + a t + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua039,muh,3.pl.2.pl.fut.aff,ən=muʔ=at̪ =ei=ne,ənΣateine,ə n Σ a t ei n e,ə+n+Σ+at+ei+ne,ə + n + Σ + a t + ei + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua040,muh,3.sg.3.sg.fut.aff,ə=muʔ=at̪,əΣat,ə Σ a t,ə+Σ+at,ə + Σ + a t,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua041,muh,3.sg.3.pl.fut.aff,ə=muʔ=at̪=ei,əΣatei,ə Σ a t ei,ə+Σ+at+ei,ə + Σ + a t + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua042,muh,3.pl.3.sg.fut.aff,ən=muʔ=at̪,ənΣat,ə n Σ a t,ə+n+Σ+at,ə + n + Σ + a t,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua043,muh,3.pl.3.pl.fut.aff,ən=muʔ=at̪=ei,ənΣatei,ə n Σ a t ei,ə+n+Σ+at+ei,ə + n + Σ + a t + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua044,kal,1.sg.fut.neg,kə=kal=at̪=lo,kəΣatlo,k ə Σ a t l o,kə+Σ+at+lo,k ə + Σ + a t + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua045,kal,1.pl.fut.neg,kən=kal=at̪=lo,kənΣatlo,k ə n Σ a t l o,kə+n+Σ+at+lo,k ə + n + Σ + a t + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua046,muh,1.sg.2.sg.fut.neg,kə=muʔ=at̪=ne=lo,kəΣatnelo,k ə Σ a t n e l o,kə+Σ+at+ne+lo,k ə + Σ + a t + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua047,muh,1.sg.2.pl.fut.neg,kə=muʔ=at̪=ei=ne=lo,kəΣateinelo,k ə Σ a t ei n e l o,kə+Σ+at+ei+ne+lo,k ə + Σ + a t + ei + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua048,muh,1.sg.3.pl.fut.neg,kə=muʔ=at̪=ei=lo,kəΣateilo,k ə Σ a t ei l o,kə+Σ+at+ei+lo,k ə + Σ + a t + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua049,muh,1.pl.2.sg.fut.neg,kən=muʔ=at̪=ne=lo,kənΣatnelo,k ə n Σ a t n e l o,kə+n+Σ+at+ne+lo,k ə + n + Σ + a t + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua050,muh,1.pl.2.pl.fut.neg,kən=muʔ=ei=ne=lo,kənΣateinelo,k ə n Σ a t ei n e l o,kə+n+Σ+at+ei+ne+lo,k ə + n + Σ + a t + ei + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua051,muh,1.sg.3.sg.fut.neg,kə=muʔ=at̪=lo,kəΣatlo,k ə Σ a t l o,kə+Σ+at+lo,k ə + Σ + a t + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua052,muh,1.pl.3.sg.fut.neg,kən=muʔ=at̪=lo,kənΣatlo,k ə n Σ a t l o,kə+n+Σ+at+lo,k ə + n + Σ + a t + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua053,muh,1.pl.3.pl.fut.neg,kən=muʔ=at̪=ei=lo,kənΣateilo,k ə n Σ a t ei l o,kə+n+Σ+at+ei+lo,k ə + n + Σ + a t + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua054,kal,2.sg.fut.neg,nə=kal=at̪=lo,nəΣatlo,n ə Σ a t l o,nə+Σ+at+lo,n ə + Σ + a t + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua055,kal,2.pl.fut.neg,nən=kal=at̪=lo,nənΣatlo,n ə n Σ a t l o,nə+n+Σ+at+lo,n ə + n + Σ + a t + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua056,muh,2.sg.1.sg.fut.neg,nə=hɒŋ=muʔ=at̪=lo,nəhɒŋΣatlo,n ə h ɒ ŋ Σ a t l o,nə+hɒŋ+Σ+at+lo,n ə + h ɒ ŋ + Σ + a t + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua057,muh,2.sg.1.pl.fut.neg,nə=hɒŋ=muʔ=at̪=ei=lo,nəhɒŋΣateilo,n ə h ɒ ŋ Σ a t ei l o,nə+hɒŋ+Σ+at+ei+lo,n ə + h ɒ ŋ + Σ + a t + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua058,muh,2.pl.1.sg.fut.neg,nən=hɒŋ=muʔ=at̪=lo,nənhɒŋΣatlo,n ə n h ɒ ŋ Σ a t l o,nə+n+hɒŋ+Σ+at+lo,n ə + n + h ɒ ŋ + Σ + a t + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua059,muh,2.pl.1.pl.fut.neg,nən=hɒŋ=muʔ=at̪=ei=lo,nənhɒŋΣateilo,n ə n h ɒ ŋ Σ a t ei l o,nə+n+hɒŋ+Σ+at+ei+lo,n ə + n + h ɒ ŋ + Σ + a t + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua060,muh,2.sg.3.sg.fut.neg,nə=muʔ=at̪=lo,nəΣatlo,n ə Σ a t l o,nə+Σ+at+lo,n ə + Σ + a t + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua061,muh,2.sg.3.pl.fut.neg,nə=muʔ=at̪=ei=lo,nəΣateilo,n ə Σ a t ei l o,nə+Σ+at+ei+lo,n ə + Σ + a t + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua062,muh,2.pl.3.sg.fut.neg,nən=muʔ=at̪=lo,nənΣatlo,n ə n Σ a t l o,nə+n+Σ+at+lo,n ə + n + Σ + a t + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua063,muh,2.pl.3.pl.fut.neg,nən=muʔ=at̪=ei=lo,nənΣateilo,n ə n Σ a t ei l o,nə+n+Σ+at+ei+lo,n ə + n + Σ + a t + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua064,kal,3.sg.fut.neg,ə=kal=at̪=lo,əΣatlo,ə Σ a t l o,ə+Σ+at+lo,ə + Σ + a t + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua065,kal,3.pl.fut.neg,ən=kal=at̪=lo,ənΣatlo,ə n Σ a t l o,ə+n+Σ+at+lo,ə + n + Σ + a t + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua066,muh,3.sg.1.sg.fut.neg,ə=hɒŋ=muʔ=at̪=lo,əhɒŋΣatlo,ə h ɒ ŋ Σ a t l o,ə+hɒŋ+Σ+at+lo,ə + h ɒ ŋ + Σ + a t + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua067,muh,3.sg.1.pl.fut.neg,ə=hɒŋ=muʔ=at̪=ei=lo,əhɒŋΣateilo,ə h ɒ ŋ Σ a t ei l o,ə+hɒŋ+Σ+at+ei+lo,ə + h ɒ ŋ + Σ + a t + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua068,muh,3.pl.1.sg.fut.neg,ən=hɒŋ=muʔ=at̪=lo,ənhɒŋΣatlo,ə n h ɒ ŋ Σ a t l o,ə+n+hɒŋ+Σ+at+lo,ə + n + h ɒ ŋ + Σ + a t + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua069,muh,3.pl.1.pl.fut.neg,ən=hɒŋ=muʔ=at̪=ei=lo,ənhɒŋΣateilo,ə n h ɒ ŋ Σ a t ei l o,ə+n+hɒŋ+Σ+at+ei+lo,ə + n + h ɒ ŋ + Σ + a t + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua070,muh,3.sg.2.sg.fut.neg,ə=muʔ=at̪=ne=lo,əΣatnelo,ə Σ a t n e l o,ə+Σ+at+ne+lo,ə + Σ + a t + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua071,muh,3.sg.2.pl.fut.neg,ə=muʔ=at̪=ei=ne=lo,əΣateinelo,ə Σ a t ei n e l o,ə+Σ+at+ei+ne+lo,ə + Σ + a t + ei + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua072,muh,3.pl.2.sg.fut.neg,ən=muʔ=at̪=ne=lo,ənΣatnelo,ə n Σ a t n e l o,ə+n+Σ+at+ne+lo,ə + n + Σ + a t + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua073,muh,3.pl.2.pl.fut.neg,ən=muʔ=at̪ =ei=ne=lo,ənΣateinelo,ə n Σ a t ei n e l o,ə+n+Σ+at+ei+ne+lo,ə + n + Σ + a t + ei + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua074,muh,3.sg.3.sg.fut.neg,ə=muʔ=at̪=lo,əΣatlo,ə Σ a t l o,ə+Σ+at+lo,ə + Σ + a t + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua075,muh,3.sg.3.pl.fut.neg,ə=muʔ=at̪=ei=lo,əΣateilo,ə Σ a t ei l o,ə+Σ+at+ei+lo,ə + Σ + a t + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua076,muh,3.pl.3.sg.fut.neg,ən=muʔ=at̪=lo,ənΣatlo,ə n Σ a t l o,ə+n+Σ+at+lo,ə + n + Σ + a t + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua077,muh,3.pl.3.pl.fut.neg,ən=muʔ=at̪=ei=lo,ənΣatlo,ə n Σ a t l o,ə+n+Σ+at+lo,ə + n + Σ + a t + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua078,muh,1.sg.nfut.aff,kə=muʔ,kəΣ,k ə Σ,kə+Σ,k ə + Σ,default,,Akter2024Grammar,333,pangkhua
+pangkhua079,muh,1.pl.nfut.aff,kən=muʔ,kənΣ,k ə n Σ,kə+n+Σ,k ə + n + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua080,muh,1.sg.2.sg.nfut.aff,kə=muʔ=ne,kəΣne,k ə Σ n e,kə+Σ+ne,k ə + Σ + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua081,muh,1.sg.2.pl.nfut.aff,kə=muʔ=ei=ne,kəΣeine,k ə Σ ei n e,kə+Σ+ei+ne,k ə + Σ + ei + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua082,muh,1.pl.2.sg.nfut.aff,kən=muʔ=ne,kənΣne,k ə n Σ n e,kə+n+Σ+ne,k ə + n + Σ + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua083,muh,1.pl.2.pl.nfut.aff,kən=muʔ=ei=ne,kənΣeine,k ə n Σ ei n e,kə+n+Σ+ei+ne,k ə + n + Σ + ei + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua084,muh,1.sg.3.sg.nfut.aff,kə=muʔ,kəΣ,k ə Σ,kə+Σ,k ə + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua085,muh,1.sg.3.pl.nfut.aff,kə=muʔ=ei,kəΣei,k ə Σ ei,kə+Σ+ei,k ə + Σ + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua086,muh,1.pl.3.sg.nfut.aff,kən=muʔ,kənΣ,k ə n Σ,kə+n+Σ,k ə + n + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua087,muh,1.pl.3.pl.nfut.aff,kən=muʔ=ei,kənΣei,k ə n Σ ei,kə+n+Σ+ei,k ə + n + Σ + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua088,muh,2.sg.nfut.aff,nə=muh,nəΣ,n ə Σ,nə+Σ,n ə + Σ,default,,Akter2016Endangerment,18,pangkhua
+pangkhua089,muh,2.pl.nfut.aff,nən=muʔ,nənΣ,n ə n Σ,nə+n+Σ,n ə + n + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua090,muh,2.sg.1.sg.nfut.aff,nə=hɒŋ=muʔ,nəhɒŋΣ,n ə h ɒ ŋ Σ,nə+hɒŋ+Σ,n ə + h ɒ ŋ + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua091,muh,2.sg.1.pl.nfut.aff,nə=hɒŋ=muʔ=ei,nəhɒŋΣei,n ə h ɒ ŋ Σ ei,nə+hɒŋ+Σ+ei,n ə + h ɒ ŋ + Σ + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua092,muh,2.pl.1.sg.nfut.aff,nən=hɒŋ=muʔ,nənhɒŋΣ,n ə n h ɒ ŋ Σ,nə+n+hɒŋ+Σ,n ə + n + h ɒ ŋ + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua093,muh,2.pl.1.pl.nfut.aff,nən=hɒŋ=muʔ=ei,nənhɒŋΣei,n ə n h ɒ ŋ Σ ei,nə+n+hɒŋ+Σ+ei,n ə + n + h ɒ ŋ + Σ + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua094,muh,2.sg.3.sg.nfut.aff,nə=muʔ,nəΣ,n ə Σ,nə+Σ,n ə + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua095,muh,2.sg.3.pl.nfut.aff,nə=muʔ=ei,nəΣei,n ə Σ ei,nə+Σ+ei,n ə + Σ + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua096,muh,2.pl.3.sg.nfut.aff,nən=muʔ,nənΣ,n ə n Σ,nə+n+Σ,n ə + n + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua097,muh,2.pl.3.pl.nfut.aff,nən=muʔ=ei,nənΣei,n ə n Σ ei,nə+n+Σ+ei,n ə + n + Σ + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua098,muh,3.sg.nfut.aff,ə=muʔ,əΣ,ə Σ,ə+Σ,ə + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua099,muh,3.pl.nfut.aff,ən=muʔ,ənΣ,ə n Σ,ə+n+Σ,ə + n + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua100,muh,3.sg.1.sg.nfut.aff,ə=hɒŋ=muʔ,əhɒŋΣ,ə h ɒ ŋ Σ,ə+hɒŋ+Σ,ə + h ɒ ŋ + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua101,muh,3.sg.1.sg.nfut.aff,hɒŋ=muʔ,hɒŋΣ,h ɒ ŋ Σ,hɒŋ+Σ,h ɒ ŋ + Σ,,optional_third,Akter2024Grammar,9,pangkhua
+pangkhua102,muh,3.sg.1.pl.nfut.aff,hɒŋ=muʔ=ei,hɒŋΣei,h ɒ ŋ Σ ei,hɒŋ+Σ+ei,h ɒ ŋ + Σ + ei,,optional_third,Akter2025Pangkhua,250430,pangkhua
+pangkhua103,muh,3.sg.1.pl.nfut.aff,ə=hɒŋ=muʔ=ei,əhɒŋΣei,ə h ɒ ŋ Σ ei,ə+hɒŋ+Σ+ei,ə + h ɒ ŋ + Σ + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua104,muh,3.pl.1.sg.nfut.aff,ən=hɒŋ=muʔ,ənhɒŋΣ,ə n h ɒ ŋ Σ,ə+n+hɒŋ+Σ,ə + n + h ɒ ŋ + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua105,muh,3.pl.1.sg.nfut.aff,hɒŋ=muʔ,hɒŋΣ,h ɒ ŋ Σ,hɒŋ+Σ,h ɒ ŋ + Σ,,optional_third,Akter2024Argument,292,pangkhua
+pangkhua106,muh,3.pl.1.pl.nfut.aff,ən=hɒŋ=muʔ=ei,ənhɒŋΣei,ə n h ɒ ŋ Σ ei,ə+n+hɒŋ+Σ+ei,ə + n + h ɒ ŋ + Σ + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua107,muh,3.sg.2.sg.nfut.aff,ə=muʔ=ne,əΣne,ə Σ n e,ə+Σ+ne,ə + Σ + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua108,muh,3.sg.2.pl.nfut.aff,ə=muʔ=ei=ne,əΣeine,ə Σ ei n e,ə+Σ+ei+ne,ə + Σ + ei + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua109,muh,3.pl.2.sg.nfut.aff,ən=muʔ=ne,ənΣne,ə n Σ n e,ə+n+Σ+ne,ə + n + Σ + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua110,muh,3.pl.2.pl.nfut.aff,ən=muʔ=ei=ne,ənΣeine,ə n Σ ei n e,ə+n+Σ+ei+ne,ə + n + Σ + ei + n e,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua111,muh,3.sg.3.sg.nfut.aff,ə=muʔ,əΣ,ə Σ,ə+Σ,ə + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua112,zel,3.sg.3.sg.nfut.aff,zel,Σ,Σ,Σ,Σ,,optional_third,Akter2024Grammar,5,pangkhua
+pangkhua113,muh,3.sg.3.pl.nfut.aff,ə=muʔ=ei,əΣei,ə Σ ei,ə+Σ+ei,ə + Σ + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua114,muh,3.pl.3.sg.nfut.aff,ən=muʔ,ənΣ,ə n Σ,ə+n+Σ,ə + n + Σ,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua115,muh,3.pl.3.pl.nfut.aff,ən=muʔ=ei,ənΣei,ə n Σ ei,ə+n+Σ+ei,ə + n + Σ + ei,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua116,kal,1.sg.nfut.neg,kə=kal=lo,kəΣlo,k ə Σ l o,kə+Σ+lo,k ə + Σ + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua117,kal,1.pl.nfut.neg,kən=kal=lo,kənΣlo,k ə n Σ l o,kə+n+Σ+lo,k ə + n + Σ + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua118,muh,1.sg.2.sg.nfut.neg,kə=muʔ=ne=lo,kəΣnelo,k ə Σ n e l o,kə+Σ+ne+lo,k ə + Σ + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua119,muh,1.sg.2.pl.nfut.neg,kə=muʔ=ei=ne=lo,kəΣeinelo,k ə Σ ei n e l o,kə+Σ+ei+ne+lo,k ə + Σ + ei + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua120,muh,1.pl.2.sg.nfut.neg,kən=muʔ=ne=lo,kənΣnelo,k ə n Σ n e l o,kə+n+Σ+ne+lo,k ə + n + Σ + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua121,muh,1.pl.2.pl.nfut.neg,kən=muʔ=ei=ne=lo,kənΣeinelo,k ə n Σ ei n e l o,kə+n+Σ+ei+ne+lo,k ə + n + Σ + ei + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua122,muh,1.sg.3.sg.nfut.neg,kə=muʔ=lo,kəΣlo,k ə Σ l o,kə+Σ+lo,k ə + Σ + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua123,muh,1.sg.3.pl.nfut.neg,kə=muʔ=ei=lo,kəΣeilo,k ə Σ ei l o,kə+Σ+ei+lo,k ə + Σ + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua124,muh,1.pl.3.sg.nfut.neg,kən=muʔ=lo,kənΣlo,k ə n Σ l o,kə+n+Σ+lo,k ə + n + Σ + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua125,muh,1.pl.3.pl.nfut.neg,kən=muʔ=ei=lo,kənΣeilo,k ə n Σ ei l o,kə+n+Σ+ei+lo,k ə + n + Σ + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua126,kal,2.sg.nfut.neg,nə=kal=lo,nəΣlo,n ə Σ l o,nə+Σ+lo,n ə + Σ + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua127,kal,2.pl.nfut.neg,nən=kal=lo,nənΣlo,n ə n Σ l o,nə+n+Σ+lo,n ə + n + Σ + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua128,muh,2.sg.1.sg.nfut.neg,nə=hɒŋ=muʔ=lo,nəhɒŋΣlo,n ə h ɒ ŋ Σ l o,nə+hɒŋ+Σ+lo,n ə + h ɒ ŋ + Σ + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua129,muh,2.sg.1.pl.nfut.neg,nə=hɒŋ=muʔ=ei=lo,nəhɒŋΣeilo,n ə h ɒ ŋ Σ ei l o,nə+hɒŋ+Σ+ei+lo,n ə + h ɒ ŋ + Σ + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua130,muh,2.pl.1.sg.nfut.neg,nən=hɒŋ=muʔ=lo,nənhɒŋΣlo,n ə n h ɒ ŋ Σ l o,nə+n+hɒŋ+Σ+lo,n ə + n + h ɒ ŋ + Σ + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua131,muh,2.pl.1.pl.nfut.neg,nən=hɒŋ=muʔ=ei=lo,nənhɒŋΣeilo,n ə n h ɒ ŋ Σ ei l o,nə+n+hɒŋ+Σ+ei+lo,n ə + n + h ɒ ŋ + Σ + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua132,muh,2.sg.3.sg.nfut.neg,nə=muʔ=lo,nəΣlo,n ə Σ l o,nə+Σ+lo,n ə + Σ + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua133,muh,2.sg.3.pl.nfut.neg,nə=muʔ=ei=lo,nəΣeilo,n ə Σ ei l o,nə+Σ+ei+lo,n ə + Σ + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua134,muh,2.pl.3.sg.nfut.neg,nən=muʔ=lo,nənΣlo,n ə n Σ l o,nə+n+Σ+lo,n ə + n + Σ + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua135,muh,2.pl.3.pl.nfut.neg,nən=muʔ=ei=lo,nənΣeilo,n ə n Σ ei l o,nə+n+Σ+ei+lo,n ə + n + Σ + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua136,kal,3.sg.nfut.neg,ə=kal=lo,əΣlo,ə Σ l o,ə+Σ+lo,ə + Σ + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua137,kal,3.pl.nfut.neg,ən=kal=lo,ənΣlo,ə n Σ l o,ə+n+Σ+lo,ə + n + Σ + l o,default,,Akter2025Pangkhua,250525,pangkhua
+pangkhua138,muh,3.sg.1.sg.nfut.neg,ə=hɒŋ=muʔ=lo,əhɒŋΣlo,ə h ɒ ŋ Σ l o,ə+hɒŋ+Σ+lo,ə + h ɒ ŋ + Σ + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua139,muh,3.sg.1.pl.nfut.neg,ə=hɒŋ=muʔ=ei=lo,əhɒŋΣeilo,ə h ɒ ŋ Σ ei l o,ə+hɒŋ+Σ+ei+lo,ə + h ɒ ŋ + Σ + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua140,muh,3.pl.1.sg.nfut.neg,ən=hɒŋ=muʔ=lo,ənhɒŋΣlo,ə n h ɒ ŋ Σ l o,ə+n+hɒŋ+Σ+lo,ə + n + h ɒ ŋ + Σ + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua141,muh,3.pl.1.pl.nfut.neg,ən=hɒŋ=muʔ=ei=lo,ənhɒŋΣeilo,ə n h ɒ ŋ Σ ei l o,ə+n+hɒŋ+Σ+ei+lo,ə + n + h ɒ ŋ + Σ + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua142,muh,3.sg.2.sg.nfut.neg,ə=muʔ=ne=lo,əΣnelo,ə Σ n e l o,ə+Σ+ne+lo,ə + Σ + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua143,muh,3.sg.2.pl.nfut.neg,ə=muʔ=ei=ne=lo,əΣeinelo,ə Σ ei n e l o,ə+Σ+ei+ne+lo,ə + Σ + ei + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua144,muh,3.pl.2.sg.nfut.neg,ən=muʔ=ne=lo,ənΣnelo,ə n Σ n e l o,ə+n+Σ+ne+lo,ə + n + Σ + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua145,muh,3.pl.2.pl.nfut.neg,ən=muʔ=ei=ne=lo,ənΣeinelo,ə n Σ ei n e l o,ə+n+Σ+ei+ne+lo,ə + n + Σ + ei + n e + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua146,muh,3.sg.3.sg.nfut.neg,ə=muʔ=lo,əΣlo,ə Σ l o,ə+Σ+lo,ə + Σ + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua147,muh,3.sg.3.pl.nfut.neg,ə=muʔ=ei=lo,əΣeilo,ə Σ ei l o,ə+Σ+ei+lo,ə + Σ + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua148,muh,3.pl.3.sg.nfut.neg,ən=muʔ=lo,ənΣlo,ə n Σ l o,ə+n+Σ+lo,ə + n + Σ + l o,default,,Akter2025Pangkhua,250430,pangkhua
+pangkhua149,muh,3.pl.3.pl.nfut.neg,ən=muʔ=ei=lo,ənΣeilo,ə n Σ ei l o,ə+n+Σ+ei+lo,ə + n + Σ + ei + l o,default,,Akter2025Pangkhua,250430,pangkhua

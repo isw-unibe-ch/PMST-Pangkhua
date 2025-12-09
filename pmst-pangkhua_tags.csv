@@ -1,0 +1,3 @@
+tag_id,tag_column_name,comment,language_id
+optional_third,overabundance_tag,form that does not contain a marker for third person (that is there in other forms with the same scenario),pangkhua
+default,paradigm_tag,"unmarked form (most general, most frequent, etc.) or form that has no other tag",pangkhua
