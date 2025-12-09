@@ -60,98 +60,123 @@ For Pangkhua, it is a language-specific version of the IPA developed by Zahid Ak
 -   Language variety description: Pangkhua is a South-Central Trans-Himalayan language, belonging more specifically to the Central branch, spoken by around 2,000 people in Rangamati and Bandarban districts, Chittagong Hill Tracts, Bangladesh. 
 
 **Does the data pertain to specific dialects, geographical locations, genre, etc?**
+
 The data was collected in and around the village of Pangkhua Para, Rangamati district, Chittagong Hill Tracts, Bangladesh. Pangkhua is not described as exhibiting regional or other dialectal variation.
 
 **Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** 
+
 The dataset contains all person forms found in the language, both verbal indexes and pronouns. 
 
 **Is any information missing from individual instances?** 
+
 No.
 
 **Are there any errors, sources of noise, or redundancies in the dataset?** 
+
 No.
 
 **Is the dataset self-contained, or does it link to or otherwise rely on external resources (for example, websites, tweets, other datasets)?** 
+
 The dataset is self-contained.
 
 **If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionaries), were there any complex decisions in the matching of entries from this dataset to those of the vocabularies (eg. inexact language code) ?**
+
 NA
 
 **Does the dataset contain data that might be considered confidential (for example, data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)?**
+
 The dataset pertains to a small, indigenous speech community, namely the Pangkhua people of Chittagong Hill Tracts, Bangladesh. The data are published here with the consent of the community.
 
-**Any other comments?**
-NA
 
 # Collection process.
 
 **What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any ? Are any information derived from other datasets ?** 
+
 The data comes from fieldwork conducted by Zahid Akter. Specific forms were taken from a combination of a text corpus, elicitation, and field notes. This work also forms the basis for the segmentation. 
 
 **How were paradigms separated (eg. in the case of homonyms or variants)? What theoretical or practical choices were made?**
+
 Design principles and theoretical choices implemented for this data set are explained in "Paper in JOHD".
 
 **How was the paradigm structure (set and labels of paradigm cells) decided? What theoretical or practical choices were made?**
+
 Design principles and theoretical choices implemented for this data set are explained in "Paper in JOHD".
 
 **What is the expertise of the contributors with the documented language ?** 
+
 Hunter L. Brown: linguist specializing in South-Central Trans-Himalayan
+
 Zahid Akter: linguist specializing in South-Central Trans-Himalayan, who has published a descriptive grammar of Pangkhua
 
 **Who was involved in the data collection process (for example, students, crowdworkers, contractors) and how were they compensated (for example, how much were crowdworkers paid)?**
+
 Only the contributors listed at the beginning of this file.
 
 **Over what timeframe was the data collected?** 
+
 The primary data were collected during fieldwork between December 2015 and February 2020. 
 
 
 # Preprocessing/cleaning/labeling.
 
 **How were the inflected forms obtained ?**
+
 All forms were collected from speakers. See above.
 
 **How were the phonological or phonemic transcriptions obtained?** 
+
 The phonological transcriptions were generated with the qlcData package in R using an orthography profile that maps graphemes to IPA.
 The mappings are based on the phonological analysis of the language.
 
 **If relevant, how were the forms segmented?**
+
 Manually based on expert knowledge.
 
 **Was any preprocessing/cleaning/labeling of the data done (for example, discretization or bucketing, tokenization, part-of-speech tagging, SIFT feature extraction, removal of instances, processing of missing values, cleaning of labels, mapping between vocabularies, etc)?** 
+
 No.
 
 **Was the "raw" data saved in addition to the preprocessed/cleaned/labeled data (for example, to support unanticipated future uses)?**
+
 Yes (not publicly available yet).
 
 **Is the software that was used to preprocess/clean/label the data available?** 
+
 The data was prepared for Paralex with the open source software R using RStudio.
 
 
 # Uses
 
 **Has the dataset been used for any published work already?** 
+
 No.
 
 **What (other) tasks could the dataset be used for?**
+
 It can be used for descriptive and comparative analyses.
 
 **Are there tasks for which the dataset should not be used?**
+
 No.
 
 
 # Distribution.
 
 **Will the dataset be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the dataset was created?**
+
 No.
 
 **How will the dataset be distributed (for example, tarball on website, API, GitHub)?** 
+
 The dataset is available on GitHub at X and on Zenodo as part of the Paralex collection at X.
 
 **Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** 
+
 The dataset is distributed under a CC-BY-SA 4.0 license.
 
 
 # Maintenance
 
 **If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so?** 
+
 For suggestions or error reports please open an issue on GitHub.
