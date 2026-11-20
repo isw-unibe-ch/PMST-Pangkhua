@@ -1,18 +1,16 @@
-﻿Data set name: PMST Pangkhua
+Data set name: PMST Pangkhua
 
-Data set developer(s): Hunter L. Brown, Zahid Akter Sandra Auderset
+Data set developer(s): Hunter L. Brown, Zahid Akter, Sandra Auderset
 
 Data sheet author(s): Hunter L. Brown, Sandra Auderset
-
-Others who contributed to this document: None
 
 
 # Motivation
 
-**For what purpose was the dataset created?**
+**For what purpose was the data set created?**
 
 This data set was created to investigate the dynamics of person marking in Pangkhua and other South-Central Trans-Himalayan languages.
-Further background and motivation can be found in Auderset et al. (in prep).
+Further background and motivation can be found in Auderset et al. 2026. Full citation: Auderset, Sandra \& Brown, Hunter L. \& Reich, Jonathan \& Gerber, Pascal \& Zakaria, Muhammad \& Konnerth, Linda. 2026. A Database of Person Marking in South-Central Trans-Himalayan. Journal of Open Humanities Data 12(1), 58. (doi:https://doi.org/10.5334/johd.505).
 
 **Who created the data set (for example, which team, research group) and on behalf of which entity (for example, company, institution, organization)?**
 
@@ -25,9 +23,9 @@ This work is funded by SNSF (Swiss National Science Foundation) Grant 10000946 t
 
 # Composition
 
-This Paralex dataset documents paradigms of inflected verb forms as well as pronouns.
+This Paralex data set documents paradigms of inflected verb forms as well as pronouns.
 
-**Are forms given as orthographic, phonetic, and or phonemic sequences ?** 
+**Are forms given as orthographic, phonetic, and/or phonemic sequences?** 
 
 Forms are provided as orthographic and phonemic sequences.
 The orthography is either the practical one used by the community or a version of the IPA used by linguists and language experts.
@@ -35,22 +33,25 @@ For Pangkhua, it is a language-specific version of the IPA developed by Zahid Ak
 
 **How many instances are there in total?**
 
--   Number of inflected forms: 149
+-   Number of inflected forms: 281
 
--   Number of unique inflected forms: 123
+-   Number of unique inflected forms: 146
 
 -   Number of unique scenarios (person, number, TAM, polarity combinations): 145
 
 -   Number of inflected forms per paradigm and subparadigm:
 
-| Paradigm |  n | Tags    |  n |
-|----------|---:|---------|---:|
-| Pronouns |  9 | default |  9 |
-| NFUT.AFF | 38 | default | 34 |
-|          |    | opt.3   |  4 |
-| NFUT.NEG | 34 | default | 34 |
-| FUT.AFF  | 34 | default | 34 |
-| FUT.NEG  | 34 | default | 34 |
+|paradigm |variants_tag |overabundance_tag |  n|
+|:--------|:------------|:-----------------|--:|
+|pron     |unspecified  |                  |  9|
+|fut.aff  |unspecified  |optional_subject  | 34|
+|fut.aff  |unspecified  |                  | 34|
+|fut.neg  |unspecified  |optional_subject  | 34|
+|fut.neg  |unspecified  |                  | 34|
+|nfut.aff |unspecified  |optional_subject  | 34|
+|nfut.aff |unspecified  |                  | 34|
+|nfut.neg |unspecified  |optional_subject  | 34|
+|nfut.neg |unspecified  |                  | 34|
 
 
 **Language varieties**
@@ -63,46 +64,46 @@ For Pangkhua, it is a language-specific version of the IPA developed by Zahid Ak
 
 The data was collected in and around the village of Pangkhua Para, Rangamati district, Chittagong Hill Tracts, Bangladesh. Pangkhua is not described as exhibiting regional or other dialectal variation.
 
-**Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** 
+**Does the data set contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** 
 
-The dataset contains all person forms found in the language, both verbal indexes and pronouns. 
+The data set contains all person forms found in the language, both verbal indexes and pronouns. 
 
 **Is any information missing from individual instances?** 
 
 No.
 
-**Are there any errors, sources of noise, or redundancies in the dataset?** 
+**Are there any errors, sources of noise, or redundancies in the data set?** 
 
 No.
 
-**Is the dataset self-contained, or does it link to or otherwise rely on external resources (for example, websites, tweets, other datasets)?** 
+**Is the data set self-contained, or does it link to or otherwise rely on external resources (for example, websites, tweets, other data sets)?** 
 
-The dataset is self-contained.
+The data set is self-contained.
 
-**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionaries), were there any complex decisions in the matching of entries from this dataset to those of the vocabularies (eg. inexact language code) ?**
+**If linking to vocabularies from other databases (such as databases of features, cells, sounds, languages, or online dictionaries), were there any complex decisions in the matching of entries from this data set to those of the vocabularies (eg. inexact language code)?**
 
 NA
 
-**Does the dataset contain data that might be considered confidential (for example, data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)?**
+**Does the data set contain data that might be considered confidential (for example, data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals' non-public communications)?**
 
-The dataset pertains to a small, indigenous speech community, namely the Pangkhua people of Chittagong Hill Tracts, Bangladesh. The data are published here with the consent of the community.
+The data set pertains to a small, indigenous speech community, namely the Pangkhua people of Chittagong Hill Tracts, Bangladesh. The data are published here with the consent of the community.
 
 
-# Collection process.
+# Collection process
 
-**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any ? Are any information derived from other datasets ?** 
+**What is provenance for each table (lexemes, cells, forms, frequencies, sounds, features), as well as for segmentation marks if any? Are any information derived from other data sets?** 
 
 The data comes from fieldwork conducted by Zahid Akter. Specific forms were taken from a combination of a text corpus, elicitation, and field notes. This work also forms the basis for the segmentation. 
 
 **How were paradigms separated (eg. in the case of homonyms or variants)? What theoretical or practical choices were made?**
 
-Design principles and theoretical choices implemented for this data set are explained in "Paper in JOHD".
+Design principles and theoretical choices implemented for this data set are explained in Auderset et al. 2026.
 
 **How was the paradigm structure (set and labels of paradigm cells) decided? What theoretical or practical choices were made?**
 
-Design principles and theoretical choices implemented for this data set are explained in "Paper in JOHD".
+Design principles and theoretical choices implemented for this data set are explained in Auderset et al. 2026.
 
-**What is the expertise of the contributors with the documented language ?** 
+**What is the expertise of the contributors with the documented language?** 
 
 Hunter L. Brown: linguist specializing in South-Central Trans-Himalayan
 
@@ -117,11 +118,11 @@ Only the contributors listed at the beginning of this file.
 The primary data were collected during fieldwork between December 2015 and February 2020. 
 
 
-# Preprocessing/cleaning/labeling.
+# Preprocessing/cleaning/labeling
 
-**How were the inflected forms obtained ?**
+**How were the inflected forms obtained?**
 
-All forms were collected from speakers. See above.
+All forms were collected from speakers (see above).
 
 **How were the phonological or phonemic transcriptions obtained?** 
 
@@ -147,36 +148,36 @@ The data was prepared for Paralex with the open source software R using RStudio.
 
 # Uses
 
-**Has the dataset been used for any published work already?** 
+**Has the data set been used for any published work already?** 
 
 No.
 
-**What (other) tasks could the dataset be used for?**
+**What (other) tasks could the data set be used for?**
 
 It can be used for descriptive and comparative analyses.
 
-**Are there tasks for which the dataset should not be used?**
+**Are there tasks for which the data set should not be used?**
 
 No.
 
 
-# Distribution.
+# Distribution
 
-**Will the dataset be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the dataset was created?**
+**Will the data set be distributed to third parties outside of the entity (for example, company, institution, organization) on behalf of which the data set was created?**
 
 No.
 
-**How will the dataset be distributed (for example, tarball on website, API, GitHub)?** 
+**How will the data set be distributed (for example, tarball on website, API, GitHub)?** 
 
-The dataset is available on GitHub at X and on Zenodo as part of the Paralex collection at X.
+The data set is available on GitHub at https://github.com/isw-unibe-ch and on Zenodo as part of the Paralex collection at https://doi.org/10.5281/zenodo.17881855.
 
-**Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** 
+**Will the data set be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?** 
 
-The dataset is distributed under a CC-BY-SA 4.0 license.
+The data set is distributed under a CC-BY-SA 4.0 license.
 
 
 # Maintenance
 
-**If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so?** 
+**If others want to extend/augment/build on/contribute to the data set, is there a mechanism for them to do so?** 
 
 For suggestions or error reports please open an issue on GitHub.
